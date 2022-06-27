@@ -1,0 +1,11 @@
+    At first, we should design a table that can show the user list, a button for adding new user and a button for to hide the disabled user. 
+    This table should have 4 column called as ID, User Name, Email, Enabled. 
+    The new user button and hide button should be on top of the page and visible because the user can find it easily. 
+    The new user button should be big and the hide button should be little. 
+    The color should be the most familiar color of the company or one of the colors that brings the company to mind or the calm colors such as blue and white.
+    Than when the user click the new user button, the add page should be opened.  
+    The  new user add page should have some boxes for adding new user's information: Username, Display Name, Phone, Email, User Roles and Enabled. 
+    The User Roles box should have three option such as guest, admin, superadmin.
+    The Enabled box should be the confirm key and if user is enable, it should be clicked, otherwise the key should not be clicked. 
+    And the top of the page, there should be saving button and this button should be big. 
+    The boxes should have their name before them.
